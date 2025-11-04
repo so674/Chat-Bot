@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#user_prompt {
+    background-color: rgb(248, 99, 228);
+}
+
+#b{
+    color: rgb(183, 116, 29);
+    cursor: pointer;
+    margin: 0px;
+}
+#b:hover {
+    background-color: rgb(58, 58, 171);
+    /* color: rgb(48, 99, 239); */
+}
+h1{
+    color: rgb(73, 15, 127);
+}
+body {
+  background-image: url("https://static.vecteezy.com/system/resources/previews/011/894/733/non_2x/artificial-intelligence-ai-robot-chat-bot-logo-template-free-vector.jpg");
+  background-size: cover;           /* image fills the screen */
+  background-repeat: no-repeat;     /* no repeat */
+  background-position: center;      /* centers the image */
+  background-attachment: fixed;     /* keeps background fixed while scrolling */
+  color: black;
+}
+@media (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+
+  .menu {
+    flex-direction: column;
+  }
+}
+
+.center{
+    text-align: center;
+}
+.b{
+    text-align: center;
+}
