@@ -20,7 +20,7 @@ h1{
     color: rgb(73, 15, 127);
 }
 body {
-  background-image: url("https://static.vecteezy.com/system/resources/previews/011/894/733/non_2x/artificial-intelligence-ai-robot-chat-bot-logo-template-free-vector.jpg");
+  background-image: url("https://img.freepik.com/free-vector/ai-technology-brain-background-vector-digital-transformation-concept_53876-117820.jpg?w=2000");
   background-size: cover;           /* image fills the screen */
   background-repeat: no-repeat;     /* no repeat */
   background-position: center;      /* centers the image */
@@ -42,4 +42,5 @@ body {
 }
 .b{
     text-align: center;
+
 }
